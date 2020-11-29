@@ -49,15 +49,28 @@ Camera work. BIG TIME.
 
 Things to add/do next time: 
 
-Animate coins further. Animate Minotaur. 
+Animate coins further. Animate Minotaur. Condense Color Coin Code. 
 
 Make camera smoother. Character feels and looks very rickety. Not sure what the problem is there at the moment. 
+Perhaps take out lerp. 
 
-2D Nav Mesh. Too complicated for such little time. So basically add in the minotaur unfortunately. 
+2D Nav Mesh. Too complicated for such little time. So basically add in the minotaur unfortunately. Perhaps Spawn instead of 
+Nav Mesh. 
+
+Minotaur Roar that shakes the screen. 
 
 Add Main Menu and Game over Screens. 
 
 Add High Score Feature. 
+
+Stick Torches, and mess with particles. Perhaps fire particles flare when Minotaur is near. Maybe with colliders? 
+
+Powerups - Similar to Pacman. Two ideas is stun the minotaur, and pull up minimap in the corner. 
+
+Perhaps the Minotaur leaves counterfeit coins everyonce in a while to try to fool the player. Perhaps Minotaur will charge 
+everyonce in a while, that goes really fast. (3 Hits?) 
+
+More Obstacles, like poison darts that shoot from walls that stuns or slows the player down. 
 
 
 References and Code: 
